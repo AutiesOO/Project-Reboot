@@ -15,8 +15,8 @@ Check the releases section
 
 "It keeps getting removed from my downloads/ disappearing" Disable your anti virus. When ever you restart your pc your anti virus may remove it just make sure to add an exeption in your antivirus settings
 
-"files missing/ 064x" ------ Download the latest version of Reboot and get the Reboot-Patcher [(https://github.com/Auties0O/Reboot-Patcher/tree/5.3.4)]
+"files missing/ 064x" ------ Download the latest version of Reboot and get the [Reboot-Patcher](https://github.com/Auties0O/Reboot-Patcher/tree/5.3.4)
 
-"Files failed to verify"  Download the latest version of Reboot and get the Reboot-File-Verfier [(https://github.com/AutiesOO/Reboot-File-Verifier)]
+"Files failed to verify"  Download the latest version of Reboot and get the [Reboot-File-Verfier](https://github.com/AutiesOO/Reboot-File-Verifier)
 
 "When I open it nothing happens" Run it as admin and it should fix the issue if not download microsoft dotnet skd version 6
